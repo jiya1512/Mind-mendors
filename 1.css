@@ -1,0 +1,46 @@
+.back{
+background-color: #610A0A;
+}
+
+.font{
+color: white;
+font-size: 25px;
+}
+
+img {
+border-radius: 10px;
+width: 24.5%;
+hight: 24.5%;
+}
+
+.tfont{
+text-align: center;
+color: #D37008;
+font-size: 55px;
+margin: auto;
+width: 100%;
+border: 1px solid green;
+padding: 10px;
+outline: solid white;
+}
+
+a:link{
+font-color: #800000;
+}
+
+.p1 {
+font-family:Georgia;
+}
+
+.p2{
+font-family:Helvetica;
+}
+
+.p3{
+font-family:Monaco;
+}
+
+.p4{
+font-family:Courier New;
+font-size: 20px;
+}

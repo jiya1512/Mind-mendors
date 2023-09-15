@@ -1,0 +1,14 @@
+.button1{
+padding: 2%;
+background-color: #F75600;
+width: 13%;
+margin: 2%;
+border-radius: 10px;
+content: "";
+clear: both;
+display: table;
+}
+
+.back{
+background-color: #610A0A;
+}

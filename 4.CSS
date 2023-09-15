@@ -1,0 +1,46 @@
+.back{
+background-color: #610A0A;
+}
+
+.font{
+color: white;
+font-size: 100px;
+}
+
+a:link{
+font-color: #800000;
+}
+
+.p1 {
+font-family:Georgia;
+
+}
+
+.p2{
+font-family:Helvetica;
+font-color: white;
+}
+
+.p3{
+font-family:Monaco;
+}
+
+.p4{
+font-family:Courier New;
+font-size: 20px;
+}
+
+.block{
+border:solid black;
+margin:30%;
+padding: 10%;
+}
+
+button{
+width: 20%;
+margin: auto;
+padding: 10px;
+border-radius: 10px;
+font-size: 18px;
+}
+
